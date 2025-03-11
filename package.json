@@ -1,0 +1,12 @@
+{
+  "name": "knighttravails",
+  "version": "1.0.0",
+  "description": "An algorith to find shortest path for knight on a chess board",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
